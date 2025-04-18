@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taha-Umar
 - 👀 I’m interested in machine learning and data sciences.
-- 🌱 I’m currently a 4th semester student @FAST University Lahore
+- 🌱 I’m currently a 6th semester student @FAST University Lahore
 - 📫 How to reach me: taha_umar_2003 @Instagram.
 - ⚡ Fun fact: Daydreamer and curious learner.
 
