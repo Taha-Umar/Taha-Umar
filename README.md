@@ -71,7 +71,7 @@ My interests span across:
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,mongodb" />
 </p>
 
 ## Frontend
