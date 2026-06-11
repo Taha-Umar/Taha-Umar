@@ -1,6 +1,6 @@
 # <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:090979,35:6D28D9,70:8B5CF6,100:C026D3&text=Taha%20Umar&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,50:7C3AED,100:2563EB&text=Taha%20Umar&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+Engineer;Software+Engineer;Machine+Learning+Practitioner;Full+Stack+Developer;Building+Scalable+AI+Products;Open+Source+Contributor"/>
 
@@ -422,7 +422,6 @@ Open_To:
 <div align="center">
 
 *"Engineering intelligent systems that create measurable impact."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,50:7C3AED,100:2563EB"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:090979,35:6D28D9,70:8B5CF6,100:C026D3"/>
 
 </div>
