@@ -338,7 +338,6 @@ Worked on enterprise AI applications, conversational systems, and full-stack AI 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taha-Umar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Taha-Umar&theme=tokyonight&hide_border=true"/>
 
@@ -352,13 +351,7 @@ Worked on enterprise AI applications, conversational systems, and full-stack AI 
 
 ---
 
-# GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Taha-Umar&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
 
 ---
 
@@ -372,15 +365,6 @@ Worked on enterprise AI applications, conversational systems, and full-stack AI 
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Taha-Umar/Taha-Umar/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # Current Focus
 
