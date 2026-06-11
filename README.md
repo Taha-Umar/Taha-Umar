@@ -83,7 +83,7 @@ My interests span across:
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mysql,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django,postgres,mysql,mongodb,supabase" />
 </p>
 
 ## Cloud, DevOps & Tooling
